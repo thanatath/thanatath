@@ -16,6 +16,6 @@ Computer engineer passionate about full stack web development, as well as, a ran
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afc851dd-642e-428a-bca7-a6b6c3de7591&theme=radical&layout=compact&show_icons=true)](https://github.com/thanatath)
 
 
-- My portfolio **https://portfolio.thanatach.net**
+- My portfolio **https://portfolio.thanatach.com**
 - How to reach me **thanatach.as@gmail.com**
 
